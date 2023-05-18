@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author liyam
+ *
+ */
+module javaobsqura {
+}
