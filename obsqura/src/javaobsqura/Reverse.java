@@ -21,6 +21,7 @@ public class Reverse {
 	public Reverse() {
 			this(245);
 			System.out.println("finding reverse:"+rev);
+			System.out.println("result obtained");
 		}
 
 	public static void main(String[] args) {
